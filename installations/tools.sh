@@ -28,3 +28,4 @@ cd references
 wget https://zenodo.org/record/5088371/files/reference.tar.gz
 tar -xvf reference.tar.gz
 rm reference.tar.gz
+mv reference Cicero_reference
