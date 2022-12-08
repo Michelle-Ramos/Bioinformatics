@@ -4,7 +4,7 @@
 
 ## Description 
 
-With this code you can run a pipeline that will do mainly process the information through 3 steps: 
+With this code you can run a pipeline that will process patient's genetic sequences through 3 steps: 
 
 - Quality assurance of DNA biomedical samples.
 - Compare the DNA of multiple patients with the database ____.
