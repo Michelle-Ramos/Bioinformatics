@@ -6,7 +6,7 @@
 
 With this code you can run a pipeline that will process patient's genetic sequences through 3 steps: 
 
-- Quality assurance of DNA biomedical samples.
+- Quality assurance analysis of DNA biomedical samples.
 - Compare the DNA of multiple patients with the database ____.
 - Give a simple diagnosis of the disease that the patients might have.
 
