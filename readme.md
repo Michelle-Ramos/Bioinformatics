@@ -12,4 +12,8 @@ With this code you can run a pipeline that will process patient's genetic sequen
 
 ## Installation
 
-Follow [Installation Documentation](documentation/dependencies.md).
+Go to [Installation Documentation](documentation/dependencies.md).
+
+## How to run the code
+
+Go to [Running the code Documentation](documentation/howToRun.md).
